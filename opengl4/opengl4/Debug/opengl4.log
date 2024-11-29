@@ -1,0 +1,21 @@
+﻿  Source.cpp
+D:\OpenGL\opengl4\Source.cpp(157,12): error C2065: 'ChristmasTreeLight': undeclared identifier
+D:\OpenGL\opengl4\Source.cpp(158,12): error C2065: 'CeilingLight': undeclared identifier
+D:\OpenGL\opengl4\Source.cpp(305,6): error C2065: 'CeilingLight': undeclared identifier
+D:\OpenGL\opengl4\Source.cpp(342,10): warning C4566: character represented by universal-character-name '\u1EA5' cannot be represented in the current code page (1258)
+D:\OpenGL\opengl4\Source.cpp(345,3): error C2065: 'CeilingLight': undeclared identifier
+D:\OpenGL\opengl4\Source.cpp(345,19): error C2065: 'CeilingLight': undeclared identifier
+D:\OpenGL\opengl4\Source.cpp(346,10): warning C4566: character represented by universal-character-name '\u1EA5' cannot be represented in the current code page (1258)
+D:\OpenGL\opengl4\Source.cpp(349,3): error C2065: 'ChristmasTreeLight': undeclared identifier
+D:\OpenGL\opengl4\Source.cpp(349,25): error C2065: 'ChristmasTreeLight': undeclared identifier
+D:\OpenGL\opengl4\Source.cpp(350,8): error C2065: 'ChristmasTreeLight': undeclared identifier
+D:\OpenGL\opengl4\Source.cpp(350,28): error C2065: 'ChristmasTreeJumpDis': undeclared identifier
+D:\OpenGL\opengl4\Source.cpp(351,10): warning C4566: character represented by universal-character-name '\u1EA5' cannot be represented in the current code page (1258)
+D:\OpenGL\opengl4\Source.cpp(354,3): error C2065: 'ChristmasTree': undeclared identifier
+D:\OpenGL\opengl4\Source.cpp(354,20): error C2065: 'ChristmasTree': undeclared identifier
+D:\OpenGL\opengl4\Source.cpp(355,8): error C2065: 'ChristmasTree': undeclared identifier
+D:\OpenGL\opengl4\Source.cpp(355,23): error C2065: 'ChristmasTreeJumpDis': undeclared identifier
+D:\OpenGL\opengl4\Source.cpp(356,10): warning C4566: character represented by universal-character-name '\u1EA5' cannot be represented in the current code page (1258)
+D:\OpenGL\opengl4\Source.cpp(360,10): warning C4566: character represented by universal-character-name '\u1EA5' cannot be represented in the current code page (1258)
+D:\OpenGL\opengl4\Source.cpp(375,19): warning C4566: character represented by universal-character-name '\u00D2' cannot be represented in the current code page (1258)
+D:\OpenGL\opengl4\Source.cpp(384,15): error C2065: 'idle': undeclared identifier

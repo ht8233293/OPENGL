@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\OpenGL\opengl8\Source.cpp(102,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  opengl8.vcxproj -> D:\OpenGL\opengl8\Debug\opengl8.exe

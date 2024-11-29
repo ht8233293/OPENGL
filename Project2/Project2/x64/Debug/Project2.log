@@ -1,0 +1,19 @@
+﻿  Source.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(127,1): warning C4005: 'CALLBACK': macro redefinition
+  (compiling source file 'Source.cpp')
+  D:\OpenGL\Project2\glut.h(33,1):
+  see previous definition of 'CALLBACK'
+  
+D:\OpenGL\Project2\Source.cpp(221,10): warning C4566: character represented by universal-character-name '\u1EA5' cannot be represented in the current code page (1258)
+D:\OpenGL\Project2\Source.cpp(236,19): warning C4566: character represented by universal-character-name '\u00D2' cannot be represented in the current code page (1258)
+Source.obj : error LNK2019: unresolved external symbol glutInit referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glutInitDisplayMode referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glutInitWindowPosition referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glutInitWindowSize referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glutMainLoop referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glutCreateWindow referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glutDisplayFunc referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glutReshapeFunc referenced in function main
+Source.obj : error LNK2019: unresolved external symbol glutKeyboardFunc referenced in function main
+glut32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+D:\OpenGL\Project2\x64\Debug\Project2.exe : fatal error LNK1120: 9 unresolved externals

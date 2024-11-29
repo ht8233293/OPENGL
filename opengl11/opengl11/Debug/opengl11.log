@@ -1,0 +1,360 @@
+﻿  Source.cpp
+D:\OpenGL\opengl11\Source.cpp(2,1): error C2059: syntax error: 'constant'
+D:\OpenGL\opengl11\Source.cpp(2,4): error C2059: syntax error: 'constant'
+D:\OpenGL\opengl11\Source.cpp(3,6): error C2059: syntax error: 'constant'
+D:\OpenGL\opengl11\Source.cpp(4,6): error C2059: syntax error: 'constant'
+D:\OpenGL\opengl11\Source.cpp(5,6): error C2059: syntax error: 'constant'
+D:\OpenGL\opengl11\Source.cpp(6,6): error C2059: syntax error: 'constant'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(25,12): error C2143: syntax error: missing ';' before '{'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\gl.h(25,12): error C2447: '{': missing function header (old-style formal list?)
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(64,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(64,14): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(65,14): warning C4229: anachronism used: modifiers on data are ignored
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(65,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(65,5): error C2065: 'GLenum': undeclared identifier
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(65,14): error C2146: syntax error: missing ')' before identifier 'errCode'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(68,14): warning C4229: anachronism used: modifiers on data are ignored
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(68,5): error C2065: 'GLenum': undeclared identifier
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(68,14): error C2146: syntax error: missing ')' before identifier 'errCode'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(70,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(70,14): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(70,7): error C2086: 'const int GLubyte': redefinition
+  (compiling source file 'Source.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(64,7):
+  see declaration of 'GLubyte'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(71,14): warning C4229: anachronism used: modifiers on data are ignored
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(71,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(71,5): error C2065: 'GLenum': undeclared identifier
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(71,14): error C2146: syntax error: missing ')' before identifier 'name'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(74,14): warning C4229: anachronism used: modifiers on data are ignored
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(73,15): error C2182: 'gluOrtho2D': this use of 'void' is not valid
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(74,5): error C2065: 'GLdouble': undeclared identifier
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(74,14): error C2146: syntax error: missing ')' before identifier 'left'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(80,14): warning C4229: anachronism used: modifiers on data are ignored
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(79,15): error C2182: 'gluPerspective': this use of 'void' is not valid
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(80,5): error C2065: 'GLdouble': undeclared identifier
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(80,14): error C2146: syntax error: missing ')' before identifier 'fovy'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(86,14): warning C4229: anachronism used: modifiers on data are ignored
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(85,15): error C2182: 'gluPickMatrix': this use of 'void' is not valid
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(86,5): error C2065: 'GLdouble': undeclared identifier
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(86,14): error C2146: syntax error: missing ')' before identifier 'x'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(93,14): warning C4229: anachronism used: modifiers on data are ignored
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(92,15): error C2182: 'gluLookAt': this use of 'void' is not valid
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(93,5): error C2065: 'GLdouble': undeclared identifier
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(93,14): error C2146: syntax error: missing ')' before identifier 'eyex'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(104,21): warning C4229: anachronism used: modifiers on data are ignored
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(104,5): error C2065: 'GLdouble': undeclared identifier
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(104,21): error C2146: syntax error: missing ')' before identifier 'objx'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(115,20): warning C4229: anachronism used: modifiers on data are ignored
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(115,5): error C2065: 'GLdouble': undeclared identifier
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(115,20): error C2146: syntax error: missing ')' before identifier 'winx'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(127,17): warning C4229: anachronism used: modifiers on data are ignored
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(127,5): error C2065: 'GLenum': undeclared identifier
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(127,17): error C2146: syntax error: missing ')' before identifier 'format'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(139,17): warning C4229: anachronism used: modifiers on data are ignored
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(139,5): error C2065: 'GLenum': undeclared identifier
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(139,17): error C2146: syntax error: missing ')' before identifier 'target'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(147,17): warning C4229: anachronism used: modifiers on data are ignored
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(147,5): error C2065: 'GLenum': undeclared identifier
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(147,17): error C2146: syntax error: missing ')' before identifier 'target'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(188,5): error C2061: syntax error: identifier 'GLenum'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(192,5): error C2061: syntax error: identifier 'GLboolean'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(196,5): error C2061: syntax error: identifier 'GLenum'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(200,5): error C2061: syntax error: identifier 'GLenum'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(204,5): error C2061: syntax error: identifier 'GLdouble'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(212,5): error C2061: syntax error: identifier 'GLdouble'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(219,5): error C2061: syntax error: identifier 'GLdouble'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(228,5): error C2061: syntax error: identifier 'GLdouble'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(234,5): error C2061: syntax error: identifier 'GLenum'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(252,5): error C2061: syntax error: identifier 'GLdouble'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(263,5): error C2061: syntax error: identifier 'GLenum'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(268,5): error C2061: syntax error: identifier 'GLdouble'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(274,5): error C2061: syntax error: identifier 'GLenum'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(279,5): error C2061: syntax error: identifier 'GLenum'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(307,5): error C2061: syntax error: identifier 'GLint'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(314,5): error C2061: syntax error: identifier 'GLint'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(324,5): error C2061: syntax error: identifier 'GLint'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(338,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(338,25): error C2146: syntax error: missing ')' before identifier 'modelMatrix'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(338,25): error C3646: 'modelMatrix': unknown override specifier
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(338,36): error C2059: syntax error: '['
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(338,37): error C3409: empty attribute block is not allowed
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(340,37): error C2059: syntax error: ')'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(345,5): error C2061: syntax error: identifier 'GLenum'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(351,5): error C2061: syntax error: identifier 'GLenum'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(357,5): error C2061: syntax error: identifier 'GLenum'
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(364,25): error C2165: 'left-side modifier': cannot modify pointers to data
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(364,47): error C2065: 'GLenum': undeclared identifier
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(364,25): error C2513: 'void *': no variable declared before '='
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(367,25): error C2165: 'left-side modifier': cannot modify pointers to data
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(367,51): error C2065: 'GLenum': undeclared identifier
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(367,25): error C2513: 'void *': no variable declared before '='
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(368,25): error C2165: 'left-side modifier': cannot modify pointers to data
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(368,51): error C2065: 'GLboolean': undeclared identifier
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(368,25): error C2513: 'void *': no variable declared before '='
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(371,25): error C2165: 'left-side modifier': cannot modify pointers to data
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(371,51): error C2065: 'GLenum': undeclared identifier
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(371,25): error C2513: 'void *': no variable declared before '='
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(372,25): error C2165: 'left-side modifier': cannot modify pointers to data
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(372,51): error C2065: 'GLdouble': undeclared identifier
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(373,51): error C2062: type 'void' unexpected
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(376,25): error C2165: 'left-side modifier': cannot modify pointers to data
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(376,51): error C2065: 'GLenum': undeclared identifier
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(376,59): error C2062: type 'void' unexpected
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(377,25): error C2165: 'left-side modifier': cannot modify pointers to data
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(377,51): error C2065: 'GLboolean': undeclared identifier
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(377,62): error C2062: type 'void' unexpected
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(380,25): error C2165: 'left-side modifier': cannot modify pointers to data
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(380,51): error C2065: 'GLenum': undeclared identifier
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(380,59): error C2062: type 'void' unexpected
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(381,25): error C2165: 'left-side modifier': cannot modify pointers to data
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(381,51): error C2065: 'GLdouble': undeclared identifier
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(382,51): error C2062: type 'void' unexpected
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(388,25): error C2165: 'left-side modifier': cannot modify pointers to data
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(388,47): error C2065: 'GLenum': undeclared identifier
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(388,25): error C2513: 'void *': no variable declared before '='
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\GL\glu.h(565,34): error C2061: syntax error: identifier 'GLenum'
+  (compiling source file 'Source.cpp')
+  
+D:\OpenGL\opengl11\glut.h(432,42): warning C4229: anachronism used: modifiers on data are ignored
+  (compiling source file 'Source.cpp')
+  
+D:\OpenGL\opengl11\glut.h(432,22): error C2182: 'glutUseLayer': this use of 'void' is not valid
+  (compiling source file 'Source.cpp')
+  
+D:\OpenGL\opengl11\glut.h(432,35): error C2065: 'GLenum': undeclared identifier
+  (compiling source file 'Source.cpp')
+  
+D:\OpenGL\opengl11\glut.h(432,42): error C2146: syntax error: missing ')' before identifier 'layer'
+  (compiling source file 'Source.cpp')
+  
+D:\OpenGL\opengl11\glut.h(490,40): error C2061: syntax error: identifier 'GLfloat'
+  (compiling source file 'Source.cpp')
+  
+D:\OpenGL\opengl11\glut.h(491,16): error C2143: syntax error: missing ';' before '__stdcall'
+  (compiling source file 'Source.cpp')
+  
+D:\OpenGL\opengl11\glut.h(491,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Source.cpp')
+  
+D:\OpenGL\opengl11\glut.h(491,61): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Source.cpp')
+  
+D:\OpenGL\opengl11\glut.h(495,36): warning C4229: anachronism used: modifiers on data are ignored
+  (compiling source file 'Source.cpp')
+  
+D:\OpenGL\opengl11\glut.h(495,29): error C2065: 'GLenum': undeclared identifier
+  (compiling source file 'Source.cpp')
+  
+D:\OpenGL\opengl11\glut.h(495,29): error C1003: error count exceeds 100; stopping compilation
+  (compiling source file 'Source.cpp')
+  

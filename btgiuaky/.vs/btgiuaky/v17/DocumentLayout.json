@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OpenGL\\btgiuaky\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8B3B65-D976-4A9A-B4C3-3B1C9D608F87}|btgiuaky.vcxproj|D:\\OpenGL\\btgiuaky\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD8B3B65-D976-4A9A-B4C3-3B1C9D608F87}|btgiuaky.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\OpenGL\\btgiuaky\\Source.cpp",
+              "RelativeDocumentMoniker": "Source.cpp",
+              "ToolTip": "D:\\OpenGL\\btgiuaky\\Source.cpp",
+              "RelativeToolTip": "Source.cpp",
+              "ViewState": "AQIAAPUCAAAAAAAAAADwv5QDAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-31T05:24:58.78Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

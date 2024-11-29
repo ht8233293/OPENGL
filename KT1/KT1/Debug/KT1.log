@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\OpenGL\KT1\KT1\main.cpp(441,10): warning C4566: character represented by universal-character-name '\u1EA5' cannot be represented in the current code page (1258)
+D:\OpenGL\KT1\KT1\main.cpp(445,10): warning C4566: character represented by universal-character-name '\u1EA5' cannot be represented in the current code page (1258)
+D:\OpenGL\KT1\KT1\main.cpp(450,10): warning C4566: character represented by universal-character-name '\u1EA5' cannot be represented in the current code page (1258)
+D:\OpenGL\KT1\KT1\main.cpp(455,10): warning C4566: character represented by universal-character-name '\u1EA5' cannot be represented in the current code page (1258)
+D:\OpenGL\KT1\KT1\main.cpp(459,10): warning C4566: character represented by universal-character-name '\u1EA5' cannot be represented in the current code page (1258)
+D:\OpenGL\KT1\KT1\main.cpp(494,19): warning C4566: character represented by universal-character-name '\u00D2' cannot be represented in the current code page (1258)
+  KT1.vcxproj -> D:\OpenGL\KT1\Debug\KT1.exe

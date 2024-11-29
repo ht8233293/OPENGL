@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\OpenGL\opengl7\Source.cpp(93,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  opengl7.vcxproj -> D:\OpenGL\opengl7\Debug\opengl7.exe
